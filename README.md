@@ -1,17 +1,1 @@
-# magnet_x_dao
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# DUO-TASK
+<img width="384" height="806" alt="Screenshot 2025-08-25 at 1 54 02 AM" src="https://github.com/user-attachments/assets/ca5f1867-21c0-4585-b689-94e10a5d0135" />
